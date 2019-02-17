@@ -2,6 +2,7 @@
 
 January 21, 2015
 http://comingdownthepipe.blogspot.com/2015/01/avoiding-data-dumpster.html
+https://www.linkedin.com/pulse/avoiding-data-dumpster-ben-lackey/
 
 Enterprise software is largely metaphor.  Big Data has some choice ones: Cloudera is offering the Enterprise Data Hub.  HortonWorks is positioning the Data Lake.  Less optimistic people talk about the idea of a Data Dumpster.  Most people, understandably, have a strong preference to avoid ending up with the later.
 

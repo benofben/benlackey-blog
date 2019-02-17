@@ -2,6 +2,7 @@
 
 January 21, 2015
 http://comingdownthepipe.blogspot.com/2015/01/the-problem-with-dashboards.html
+https://www.linkedin.com/pulse/problem-dashboards-ben-lackey/
 
 Analytics is a terrible term.  There’s advanced analytics, predictive analytics, prescriptive analytics, business analytics, and so on…  All these terms come loaded with massive historical baggage courtesy of the word analytics.
 
