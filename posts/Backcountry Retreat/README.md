@@ -8,7 +8,7 @@ For years we've been talking about building a retreat high up in the mountains w
 
 Crowd funding might provide a way around those issues...
 
-![](../images/Backcountry%20Retreat/1.jpg)
+![](1.jpg)
 
 ### Winter
 
@@ -24,7 +24,7 @@ So, that's all perfect if you're in the Denver area.  What if you're out of town
 
 Same deal - fly in and drive to the retreat from nearby Denver International Airport.  Stay a week or two in relative comfort (no megamid tents without floors) and then disappear back to where ever you came from (I'm looking at you London).
 
-![](../images/Backcountry%20Retreat/2.jpg)
+![](2.jpg)
 
 ### Summer
 Have you been living in NY/London/Berlin/too big city for too long?  Is it 100 degrees down in Boulder and Denver?

@@ -3,7 +3,7 @@
 July 12, 2016
 https://www.linkedin.com/pulse/my-guest-ben-lackey/
 
-![](../images/Be%20My%20Guest.jpg)
+![](Be%20My%20Guest.jpg)
 
 I have a personal relationship with Conrad Hilton.  It developed well after his death.  I used to stay at Starwood Hotels.  When I lived in England, I began staying at Hiltons because they were all over Europe, whereas Starwood coverage was far more sparse.
 

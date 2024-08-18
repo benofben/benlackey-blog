@@ -1,6 +1,6 @@
 ## Retire
 
-![](../images/retire.jpg)
+![](retire.jpg)
 
 References
 http://sdrv.ms/1aRV6rL

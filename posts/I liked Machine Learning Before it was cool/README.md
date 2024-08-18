@@ -3,7 +3,7 @@
 https://www.linkedin.com/pulse/i-liked-machine-learning-before-cool-ben-lackey/
 October 1, 2016
 
-![](../images/ml.jpg)
+![](ml.jpg)
 
 A few years ago I started interviewing at machine learning startups.  An interesting crop of them had popped up, all aimed at selling machine learning to the enterprise.
 

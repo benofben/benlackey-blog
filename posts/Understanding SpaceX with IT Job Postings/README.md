@@ -3,7 +3,7 @@
 October 29, 2017
 https://www.linkedin.com/pulse/understanding-spacex-job-postings-ben-lackey/
 
-![](../images/spacex.jpg)
+![](spacex.jpg)
 
 Looking at job postings on the SpaceX site is sort of interesting. It seems to give a clue to the technologies at play. This is always a fun game to play with interesting companies, but when spaceships are involved it's way cooler. The jobs are here.
 
