@@ -25,7 +25,7 @@ Some things that still function well:
 * vCard - This is a dumb little one.  Apple, Google, etc all have propriety formats.  But support here is so broad and the standard so ridiculously simple that they seem to grudgingly support it.  There may be an opportunity to store identity this way.
 * Hardware - The cloud is someone else's computer.  Happily we all own multiple computers now.  A phone is significantly more powerful than early web servers.  The issue is the OS you run on it limits what you can do.  The DMCA makes that worse.
 
-## Intertubeweb
+## Interweb Tube
 Host website from phones and other edge devices.  Q - how can traffic get there?
 
 Filesystem is git - distributed, portable.  Version control and change tracking is a neat feature that used to be too expensive but we can afford now.
