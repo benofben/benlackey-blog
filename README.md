@@ -1,3 +1,3 @@
-# benlackey-blog
+# benlackey-feed
 
-This repo contains blog posts by benlackey.
+This repo contains a feed from benlackey.
