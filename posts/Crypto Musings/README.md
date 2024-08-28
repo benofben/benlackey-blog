@@ -20,4 +20,8 @@ From there I stumbled on to [Dune](https://dune.com/).
 
 I just don't get it.  I want to believe.  But I can't figure out why I should.
 
-Farcaster actually seems pretty reasonable.  I just don't get the advantage of the crypto in it.
+Farcaster actually seems pretty reasonable.  I just don't get the advantage of the crypto in it.  I do get the crypto disadvantage.  It seems you need to pay $5 to get an account.
+
+One positive thing I could see --- early on in the web there was a notion that micropayments would make the news go.  Rather than a $10/month subscription, the NYT was supposed to charge $0.05 per article or something like that.  It clearly never happened.  The model instead is chunky subscriptions that vendors hope users forget to cancel.  That's not something consumers likely want as evidenced by the uptake in serverless cloud services over dedicated IaaS.
+
+Perhaps crypto could ensure that a browsing device does some work to pay for the content its consuming.  That could make writing a more profitable endevour.  In a perfect world it might revitilatize the approach once taken by Amazing Stories, Analog and such.

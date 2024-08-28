@@ -63,6 +63,12 @@ Filesystem is git - distributed, portable.  Version control and change tracking 
 ## App Store
 For mass adoption, the barriers to entry would need to be reduced.  Expecting a normal user to setup a tunnel is not reasonable.  
 
-## Notes
-Bluesky
-farcaster
+## MVP
+
+For a technical user, posting via a git client is fine.  That's a reasonable way to get started on longer form writing.
+
+Shorter form and pictures probably require an app client.  That app client would wrap git and jam pictures into a repo.
+
+In either case, the repo could have root on GitHub.  That could then be wrapped with something that generates a website.
+
+The distributed part of all this is almost distinct.  You'd need to stand up a web server on a phone, probably via a custom app built for that purpose.  
