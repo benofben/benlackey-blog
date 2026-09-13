@@ -23,7 +23,7 @@ Then there were proxies with a non standard card back.  That way no one could co
 
 As the high end magic cards have gotten more expensive, a very vocal contigent of magic players have just started printing straight up counterfits.  That seems to be the outlet for Wizards frustration.  Given that frustration has found an outlet, I suspect there isn't a market for a legal alternative.
 
-It reminds me a bit of the Napster era.  Record companies were clearly horrible.  One solution was online music stores offering less popular music.  Those existed and I listened to a ton of it.  One favorite was an electronic band called Canton.  I've lost the MP3s and they disappeared without a trace.
+It reminds me a bit of the Napster era.  Record companies were clearly horrible.  $17.99 for a CD with one single you wanted was a bit much.  One solution was online music stores offering less popular music.  Those existed and I listened to a ton of it.  One favorite was an electronic band called Canton.  I've lost the MP3s and they disappeared without a trace.
 
 In music, the pirate options took over.  That eventually drove many of the record companies out of business.  Today you can get most any music you want legally for a fraction of the price 20 years ago.
 
