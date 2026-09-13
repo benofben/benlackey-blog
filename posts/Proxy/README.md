@@ -7,7 +7,7 @@ I got really excited about JRUCS for two reasons:
 
 The project has delivered on 1 but not 2.  I have some theories about 2...
 
-Hasbro has been a pretty horrible steward of Wizards of the Coast.  The game started as something that was fun for 12 year olds with ~$10 to play.  Today you need to consistently spent thousands to be competitive.  In addition, a gambling aspect has been added to the game where most packs are full of worthless cards but some have high value cards.  Wizards is increasingly dipping their toes into monetizing this market with the Secret Lair releases, charging hundreds of dollars for a handful of cards.  Magic is now a game for middle aged men with 5+ figure disposable incomes.
+Hasbro has been a pretty horrible steward of Wizards of the Coast.  The game started as something that was fun for 12 year olds with ~$10 to play.  Today you need to consistently spend thousands to be competitive.  In addition, a gambling aspect has been added to the game where most packs are full of worthless cards but some have high value cards.  Wizards is increasingly dipping their toes into monetizing this market with the Secret Lair releases, charging hundreds of dollars for a handful of cards.  Magic is now a game for middle aged men with 5+ figure disposable incomes.
 
 Monetary aspects now come first and the game second.
 
