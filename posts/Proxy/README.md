@@ -11,7 +11,7 @@ Hasbro has been a pretty horrible steward of Wizards of the Coast.  The game sta
 
 Monetary aspects now come first and the game second.
 
-Then there is univeses beyond.  Wizards has largely run out of ideas.  So they're using Magic as a licensing engine, printing Star Trek and Sponge Bob.  Jokes are made about Waffle House.
+Then there is "Univeses Beyond."  Wizards has largely run out of ideas.  So they're using Magic as a licensing engine, printing Star Trek and Sponge Bob.  Jokes are made about Waffle House.
 
 In this I thought there might be an opening for an open source card game.  Anyone could print cards.  A company could cheaply print cards, making it easy to get ahold of a deck.  In this model both rarity and game balancing go out the window.  I still think it is the legal solution.
 
